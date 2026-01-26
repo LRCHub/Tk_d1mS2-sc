@@ -1,4 +1,4 @@
-# Creepy Nuts、Masaki Suda – サントラ
+# Creepy Nuts、菅田将暉 – サントラ
 
 > **歌詞登録ステータス：同期歌詞あり**
 
