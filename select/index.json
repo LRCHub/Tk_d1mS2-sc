@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "サントラ",
+  "base_artist": "Creepy Nuts、菅田将暉",
+  "createdAt": "2026-03-29T05:38:59.850560Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サントラ",
+      "artist": "Creepy Nuts feat. Masaki Suda",
+      "has_synced": true,
+      "path": "select/01_サントラ_Creepy_Nuts_feat._Masaki_Suda.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サントラ",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/02_サントラ_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サントラ",
+      "artist": "Creepy Nuts × Suda, Masaki",
+      "has_synced": true,
+      "path": "select/03_サントラ_Creepy_Nuts_×_Suda,_Masaki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サントラ",
+      "artist": "Creepy Nuts, SUDA MASAKI",
+      "has_synced": true,
+      "path": "select/04_サントラ_Creepy_Nuts,_SUDA_MASAKI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サントラ",
+      "artist": "Creepy Nuts, SUDA MASAKI",
+      "has_synced": true,
+      "path": "select/05_サントラ_Creepy_Nuts,_SUDA_MASAKI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サントラ",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/06_サントラ_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サントラ",
+      "artist": "Creepy Nuts × Masaki Suda",
+      "has_synced": true,
+      "path": "select/07_サントラ_Creepy_Nuts_×_Masaki_Suda.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サントラ",
+      "artist": "Creepy Nuts & 菅田将暉",
+      "has_synced": true,
+      "path": "select/08_サントラ_Creepy_Nuts_&_菅田将暉.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サントラ",
+      "artist": "Creepy Nuts, Masaki Suda",
+      "has_synced": true,
+      "path": "select/09_サントラ_Creepy_Nuts,_Masaki_Suda.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サントラ",
+      "artist": "Creepy Nuts & 菅田 将暉",
+      "has_synced": true,
+      "path": "select/10_サントラ_Creepy_Nuts_&_菅田_将暉.lrc"
+    }
+  ]
+}
